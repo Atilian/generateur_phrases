@@ -1,0 +1,15 @@
+C:\Users\Gasco\Desktop\Developpement\C#\Udemy\generateur_phrases\generateur_phrases\generateur_phrases\bin\Debug\net6.0\generateur_phrases.exe
+C:\Users\Gasco\Desktop\Developpement\C#\Udemy\generateur_phrases\generateur_phrases\generateur_phrases\bin\Debug\net6.0\generateur_phrases.deps.json
+C:\Users\Gasco\Desktop\Developpement\C#\Udemy\generateur_phrases\generateur_phrases\generateur_phrases\bin\Debug\net6.0\generateur_phrases.runtimeconfig.json
+C:\Users\Gasco\Desktop\Developpement\C#\Udemy\generateur_phrases\generateur_phrases\generateur_phrases\bin\Debug\net6.0\generateur_phrases.dll
+C:\Users\Gasco\Desktop\Developpement\C#\Udemy\generateur_phrases\generateur_phrases\generateur_phrases\bin\Debug\net6.0\generateur_phrases.pdb
+C:\Users\Gasco\Desktop\Developpement\C#\Udemy\generateur_phrases\generateur_phrases\generateur_phrases\obj\Debug\net6.0\generateur_phrases.csproj.AssemblyReference.cache
+C:\Users\Gasco\Desktop\Developpement\C#\Udemy\generateur_phrases\generateur_phrases\generateur_phrases\obj\Debug\net6.0\generateur_phrases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gasco\Desktop\Developpement\C#\Udemy\generateur_phrases\generateur_phrases\generateur_phrases\obj\Debug\net6.0\generateur_phrases.AssemblyInfoInputs.cache
+C:\Users\Gasco\Desktop\Developpement\C#\Udemy\generateur_phrases\generateur_phrases\generateur_phrases\obj\Debug\net6.0\generateur_phrases.AssemblyInfo.cs
+C:\Users\Gasco\Desktop\Developpement\C#\Udemy\generateur_phrases\generateur_phrases\generateur_phrases\obj\Debug\net6.0\generateur_phrases.csproj.CoreCompileInputs.cache
+C:\Users\Gasco\Desktop\Developpement\C#\Udemy\generateur_phrases\generateur_phrases\generateur_phrases\obj\Debug\net6.0\generateur_phrases.dll
+C:\Users\Gasco\Desktop\Developpement\C#\Udemy\generateur_phrases\generateur_phrases\generateur_phrases\obj\Debug\net6.0\refint\generateur_phrases.dll
+C:\Users\Gasco\Desktop\Developpement\C#\Udemy\generateur_phrases\generateur_phrases\generateur_phrases\obj\Debug\net6.0\generateur_phrases.pdb
+C:\Users\Gasco\Desktop\Developpement\C#\Udemy\generateur_phrases\generateur_phrases\generateur_phrases\obj\Debug\net6.0\generateur_phrases.genruntimeconfig.cache
+C:\Users\Gasco\Desktop\Developpement\C#\Udemy\generateur_phrases\generateur_phrases\generateur_phrases\obj\Debug\net6.0\ref\generateur_phrases.dll
